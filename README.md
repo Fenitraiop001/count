@@ -11,8 +11,8 @@ This simple project displays a random number on the web page and shows its equiv
 ## Technologies Used
 
 - **HTML**: Basic structure of the web page.
-- CSS: Styling for displaying the elements.
-- JavaScript: Logic for generating the random number and converting it to words.
+- **CSS**: Styling for displaying the elements.
+- **JavaScript**: Logic for generating the random number and converting it to words.
 
 ## How to Use
 
