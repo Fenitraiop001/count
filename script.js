@@ -2,6 +2,8 @@ var s = 2.5;
 var min = 0
 var max = 1000
 
+alert('coucoup')
+
 var number = document.getElementById('count')
 var letter = document.getElementById('letter')
 
